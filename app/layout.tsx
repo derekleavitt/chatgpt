@@ -2,8 +2,8 @@ import { ReactNode } from 'react'
 import './globals.css'
 
 export const metadata = {
-  title: 'ChatGPT',
-  description: 'A chatbot powered by GPT',
+  title: 'Khumbu Valley | Free ChatGPT 4.0',
+  description: 'Khumbu Valley (Everest Region) Community Platform',
 }
 
 export default function RootLayout({
